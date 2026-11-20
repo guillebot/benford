@@ -65,7 +65,7 @@ col4.metric("MAD vs Benford", f"{overall['mad']:.4f}")
 st.subheader("Observed vs expected (overall)")
 hist_path = Path(payload["artifacts"]["histogram_png"])
 if hist_path.is_file():
-    st.image(str(hist_path), use_container_width=True)
+    st.image(str(hist_path), width="stretch")
 else:
     counts = overall["counts"]
     import matplotlib.pyplot as plt
@@ -94,7 +94,7 @@ df = pd.DataFrame(payload["sites"])
 df = df.sort_values(by=["ok", "n_digits"], ascending=[True, False])
 st.dataframe(
     df[["name", "status", "n_digits", "chi_square", "mad", "error", "url"]],
-    use_container_width=True,
+    width="stretch",
     hide_index=True,
 )
 
