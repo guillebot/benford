@@ -1,0 +1,404 @@
+{
+  "sites": [
+    {
+      "name": "Wikipedia List of countries by population",
+      "url": "https://en.wikipedia.org/wiki/List_of_countries_by_population"
+    },
+    {
+      "name": "Wikipedia GDP by country",
+      "url": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+    },
+    {
+      "name": "Wikipedia Life expectancy",
+      "url": "https://en.wikipedia.org/wiki/List_of_countries_by_life_expectancy"
+    },
+    {
+      "name": "Wikipedia Population density",
+      "url": "https://en.wikipedia.org/wiki/List_of_countries_by_population_density"
+    },
+    {
+      "name": "Wikipedia Unemployment",
+      "url": "https://en.wikipedia.org/wiki/List_of_countries_by_unemployment_rate"
+    },
+    {
+      "name": "Wikipedia Inflation",
+      "url": "https://en.wikipedia.org/wiki/List_of_countries_by_inflation_rate"
+    },
+    {
+      "name": "Wikipedia CO2 emissions",
+      "url": "https://en.wikipedia.org/wiki/List_of_countries_by_carbon_dioxide_emissions"
+    },
+    {
+      "name": "Wikipedia Internet users",
+      "url": "https://en.wikipedia.org/wiki/List_of_countries_by_number_of_Internet_users"
+    },
+    {
+      "name": "Wikipedia Electricity consumption",
+      "url": "https://en.wikipedia.org/wiki/List_of_countries_by_electricity_consumption"
+    },
+    {
+      "name": "Wikipedia Oil production",
+      "url": "https://en.wikipedia.org/wiki/List_of_countries_by_oil_production"
+    },
+    {
+      "name": "Wikipedia Olympic medals",
+      "url": "https://en.wikipedia.org/wiki/all-time_Olympic_Games_medal_table"
+    },
+    {
+      "name": "Wikipedia FIFA rankings",
+      "url": "https://en.wikipedia.org/wiki/FIFA_Men's_World_Ranking"
+    },
+    {
+      "name": "Wikipedia Tallest buildings",
+      "url": "https://en.wikipedia.org/wiki/List_of_tallest_buildings"
+    },
+    {
+      "name": "Wikipedia Longest rivers",
+      "url": "https://en.wikipedia.org/wiki/List_of_rivers_by_length"
+    },
+    {
+      "name": "Wikipedia Highest mountains",
+      "url": "https://en.wikipedia.org/wiki/List_of_highest_mountains_on_Earth"
+    },
+    {
+      "name": "Wikipedia Largest lakes",
+      "url": "https://en.wikipedia.org/wiki/List_of_largest_lakes"
+    },
+    {
+      "name": "Wikipedia Urban areas",
+      "url": "https://en.wikipedia.org/wiki/List_of_largest_cities"
+    },
+    {
+      "name": "Wikipedia Rail networks",
+      "url": "https://en.wikipedia.org/wiki/List_of_countries_by_rail_transport_network_size"
+    },
+    {
+      "name": "Wikipedia Military expenditure",
+      "url": "https://en.wikipedia.org/wiki/List_of_countries_with_highest_military_expenditures"
+    },
+    {
+      "name": "Wikipedia Poverty",
+      "url": "https://en.wikipedia.org/wiki/List_of_countries_by_percentage_of_population_living_in_poverty"
+    },
+    {
+      "name": "World Bank population",
+      "url": "https://data.worldbank.org/indicator/SP.POP.TOTL"
+    },
+    {
+      "name": "World Bank GDP",
+      "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD"
+    },
+    {
+      "name": "World Bank GNI per capita",
+      "url": "https://data.worldbank.org/indicator/NY.GNP.PCAP.CD"
+    },
+    {
+      "name": "World Bank life expectancy",
+      "url": "https://data.worldbank.org/indicator/SP.DYN.LE00.IN"
+    },
+    {
+      "name": "World Bank fertility",
+      "url": "https://data.worldbank.org/indicator/SP.DYN.TFRT.IN"
+    },
+    {
+      "name": "World Bank inflation CPI",
+      "url": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG"
+    },
+    {
+      "name": "World Bank unemployment",
+      "url": "https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS"
+    },
+    {
+      "name": "World Bank exports",
+      "url": "https://data.worldbank.org/indicator/NE.EXP.GNFS.CD"
+    },
+    {
+      "name": "World Bank CO2",
+      "url": "https://data.worldbank.org/indicator/EN.ATM.CO2E.KT"
+    },
+    {
+      "name": "World Bank electricity access",
+      "url": "https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS"
+    },
+    {
+      "name": "UN DESA population",
+      "url": "https://www.un.org/development/desa/en/"
+    },
+    {
+      "name": "OECD GDP",
+      "url": "https://data.oecd.org/gdp/gross-domestic-product-gdp.htm"
+    },
+    {
+      "name": "OECD unemployment",
+      "url": "https://data.oecd.org/unemp/unemployment-rate.htm"
+    },
+    {
+      "name": "OECD inflation",
+      "url": "https://data.oecd.org/price/inflation-cpi.htm"
+    },
+    {
+      "name": "FRED GDP",
+      "url": "https://fred.stlouisfed.org/series/GDP"
+    },
+    {
+      "name": "FRED CPI",
+      "url": "https://fred.stlouisfed.org/series/CPIAUCSL"
+    },
+    {
+      "name": "FRED unemployment",
+      "url": "https://fred.stlouisfed.org/series/UNRATE"
+    },
+    {
+      "name": "BLS CPI",
+      "url": "https://www.bls.gov/cpi/"
+    },
+    {
+      "name": "BLS employment",
+      "url": "https://www.bls.gov/news.release/empsit.nr0.htm"
+    },
+    {
+      "name": "BLS productivity",
+      "url": "https://www.bls.gov/productivity/"
+    },
+    {
+      "name": "US Census quickfacts",
+      "url": "https://www.census.gov/quickfacts/fact/table/US/PST045224"
+    },
+    {
+      "name": "US Census population estimates",
+      "url": "https://www.census.gov/data/tables/time-series/demo/popest/2020s-national-total.html"
+    },
+    {
+      "name": "IRS SOI stats",
+      "url": "https://www.irs.gov/statistics/soi-tax-stats-individual-income-tax-returns-publication-1304"
+    },
+    {
+      "name": "BEA GDP",
+      "url": "https://www.bea.gov/data/gdp/gross-domestic-product"
+    },
+    {
+      "name": "CDC FASTSTATS",
+      "url": "https://www.cdc.gov/nchs/fastats/"
+    },
+    {
+      "name": "NOAA climate",
+      "url": "https://www.ncei.noaa.gov/access/monitoring/monthly-report/global/202401"
+    },
+    {
+      "name": "EPA GHG emissions",
+      "url": "https://www.epa.gov/ghgemissions/sources-greenhouse-gas-emissions"
+    },
+    {
+      "name": "EIA energy consumption",
+      "url": "https://www.eia.gov/totalenergy/data/browser/"
+    },
+    {
+      "name": "USDA crop production",
+      "url": "https://www.nass.usda.gov/Publications/index.php"
+    },
+    {
+      "name": "IMF World Economic Outlook",
+      "url": "https://www.imf.org/en/Publications/WEO"
+    },
+    {
+      "name": "IMF DataMapper GDP",
+      "url": "https://www.imf.org/external/datamapper/NGDP_RPCH@WEO/OEMDC"
+    },
+    {
+      "name": "Eurostat population",
+      "url": "https://ec.europa.eu/eurostat/databrowser/view/demo_pjan/default/table"
+    },
+    {
+      "name": "UK ONS population",
+      "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates"
+    },
+    {
+      "name": "Statistics Canada population",
+      "url": "https://www150.statcan.gc.ca/n1/en/subjects/population_and_demography"
+    },
+    {
+      "name": "Australian Bureau of Statistics",
+      "url": "https://www.abs.gov.au/statistics/people/population"
+    },
+    {
+      "name": "NZ Stats population",
+      "url": "https://www.stats.govt.nz/topics/population"
+    },
+    {
+      "name": "Japan e-Stat",
+      "url": "https://www.e-stat.go.jp/en/stat-search/files?page=1&layout=datalist&toukei=00200524"
+    },
+    {
+      "name": "India data.gov.in agriculture",
+      "url": "https://data.gov.in/"
+    },
+    {
+      "name": "Baseball Reference leaders",
+      "url": "https://www.baseball-reference.com/leaders/H_home.shtml"
+    },
+    {
+      "name": "Basketball Reference scoring",
+      "url": "https://www.basketball-reference.com/leaders/pts_career.html"
+    },
+    {
+      "name": "Pro Football Reference passing",
+      "url": "https://www.pro-football-reference.com/leaders/pass_yds_career.htm"
+    },
+    {
+      "name": "Hockey Reference points",
+      "url": "https://www.hockey-reference.com/leaders/pts_career.html"
+    },
+    {
+      "name": "Cricket stats ESPN",
+      "url": "https://www.espncricinfo.com/records"
+    },
+    {
+      "name": "Transfermarkt valuations",
+      "url": "https://www.transfermarkt.us/spieler-statistik/wertvollstespieler/marktwertetop"
+    },
+    {
+      "name": "ESPN NBA standings",
+      "url": "https://www.espn.com/nba/standings"
+    },
+    {
+      "name": "ESPN NFL standings",
+      "url": "https://www.espn.com/nfl/standings"
+    },
+    {
+      "name": "NYT election results 2020",
+      "url": "https://www.nytimes.com/interactive/2020/11/03/us/elections/results-president.html"
+    },
+    {
+      "name": "MIT election data",
+      "url": "https://electionlab.mit.edu/data"
+    },
+    {
+      "name": "FEC presidential receipts",
+      "url": "https://www.fec.gov/introduction-campaign-finance/understanding-ways-support-federal-candidates/presidential-elections/public-funding-presidential-elections/"
+    },
+    {
+      "name": "UK election results",
+      "url": "https://en.wikipedia.org/wiki/2024_United_Kingdom_general_election"
+    },
+    {
+      "name": "OpenSecrets lobbying",
+      "url": "https://www.opensecrets.org/lobby/toplobbying.php"
+    },
+    {
+      "name": "Yahoo Finance S&P 500",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/"
+    },
+    {
+      "name": "Yahoo Finance AAPL",
+      "url": "https://finance.yahoo.com/quote/AAPL/key-statistics"
+    },
+    {
+      "name": "MarketWatch indices",
+      "url": "https://www.marketwatch.com/investing/index/djia"
+    },
+    {
+      "name": "CoinMarketCap BTC",
+      "url": "https://coinmarketcap.com/currencies/bitcoin/"
+    },
+    {
+      "name": "SEC EDGAR company facts",
+      "url": "https://www.sec.gov/edgar/searchedgar/companysearch.html"
+    },
+    {
+      "name": "NASDAQ trader data",
+      "url": "https://www.nasdaqtrader.com/Trader.aspx?id=MarketStatistics"
+    },
+    {
+      "name": "Wikipedia Fortune 500",
+      "url": "https://en.wikipedia.org/wiki/Fortune_Global_500"
+    },
+    {
+      "name": "Wikipedia Billionaires",
+      "url": "https://en.wikipedia.org/wiki/The_World%27s_Billionaires"
+    },
+    {
+      "name": "Wikipedia US states GDP",
+      "url": "https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_GDP"
+    },
+    {
+      "name": "Wikipedia US states population",
+      "url": "https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_population"
+    },
+    {
+      "name": "Wikipedia Airports passenger",
+      "url": "https://en.wikipedia.org/wiki/List_of_busiest_airports_by_passenger_traffic"
+    },
+    {
+      "name": "Wikipedia Container ports",
+      "url": "https://en.wikipedia.org/wiki/List_of_busiest_container_ports"
+    },
+    {
+      "name": "Wikipedia University rankings",
+      "url": "https://en.wikipedia.org/wiki/QS_World_University_Rankings"
+    },
+    {
+      "name": "Wikipedia Nobel laureates",
+      "url": "https://en.wikipedia.org/wiki/List_of_Nobel_laureates"
+    },
+    {
+      "name": "Wikipedia Billionaire cities",
+      "url": "https://en.wikipedia.org/wiki/List_of_cities_by_number_of_billionaires"
+    },
+    {
+      "name": "Wikipedia Prison population",
+      "url": "https://en.wikipedia.org/wiki/List_of_countries_by_incarceration_rate"
+    },
+    {
+      "name": "Wikipedia Road network",
+      "url": "https://en.wikipedia.org/wiki/List_of_countries_by_road_network_size"
+    },
+    {
+      "name": "Wikipedia Renewable energy",
+      "url": "https://en.wikipedia.org/wiki/Renewable_energy_by_country"
+    },
+    {
+      "name": "Wikipedia HIV prevalence",
+      "url": "https://en.wikipedia.org/wiki/List_of_countries_by_HIV/AIDS_adult_prevalence_rate"
+    },
+    {
+      "name": "Wikipedia Literacy rate",
+      "url": "https://en.wikipedia.org/wiki/List_of_countries_by_literacy_rate"
+    },
+    {
+      "name": "Wikipedia Median age",
+      "url": "https://en.wikipedia.org/wiki/List_of_countries_by_median_age"
+    },
+    {
+      "name": "Wikipedia Birth rate",
+      "url": "https://en.wikipedia.org/wiki/list_of_countries_by_birth_rate"
+    },
+    {
+      "name": "Wikipedia Death rate",
+      "url": "https://en.wikipedia.org/wiki/List_of_countries_by_death_rate"
+    },
+    {
+      "name": "Wikipedia Obesity",
+      "url": "https://en.wikipedia.org/wiki/List_of_countries_by_obesity_rate"
+    },
+    {
+      "name": "Wikipedia Suicide rate",
+      "url": "https://en.wikipedia.org/wiki/List_of_countries_by_suicide_rate"
+    },
+    {
+      "name": "Wikipedia Homicide rate",
+      "url": "https://en.wikipedia.org/wiki/List_of_countries_by_intentional_homicide_rate"
+    },
+    {
+      "name": "Wikipedia Gini coefficient",
+      "url": "https://en.wikipedia.org/wiki/List_of_countries_by_income_equality"
+    },
+    {
+      "name": "Wikipedia Minimum wage",
+      "url": "https://en.wikipedia.org/wiki/List_of_minimum_wages_by_country"
+    },
+    {
+      "name": "Wikipedia Railway stations",
+      "url": "https://en.wikipedia.org/wiki/List_of_highest_railway_stations"
+    }
+  ]
+}
